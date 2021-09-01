@@ -1,0 +1,14 @@
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\bin\Debug\netcoreapp3.1\LineAndComparison.exe
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\bin\Debug\netcoreapp3.1\LineAndComparison.deps.json
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\bin\Debug\netcoreapp3.1\LineAndComparison.runtimeconfig.json
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\bin\Debug\netcoreapp3.1\LineAndComparison.runtimeconfig.dev.json
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\bin\Debug\netcoreapp3.1\LineAndComparison.dll
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\bin\Debug\netcoreapp3.1\LineAndComparison.pdb
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.csproj.AssemblyReference.cache
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.AssemblyInfoInputs.cache
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.AssemblyInfo.cs
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.csproj.CoreCompileInputs.cache
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.dll
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.pdb
+C:\Users\vidya\Desktop\DotNet\LineAndComparison\LineAndComparison\obj\Debug\netcoreapp3.1\LineAndComparison.genruntimeconfig.cache
