@@ -20,7 +20,19 @@ namespace LineAndComparison
             length2 = Math.Sqrt((m2 - m1) * (m2 - m1) + (n2 - n1) * (n2 - n1));
             Console.WriteLine(length1);
             Console.WriteLine(length2);
-            Console.WriteLine(length1.ToString().Equals(length2.ToString()));
+            Console.WriteLine(length1.ToString().Equals(length2.ToString()));//Return TRUE if lines are equal otherwise false
+            if (length1 > length2)
+            {
+                Console.WriteLine("Line 1 is Greater!");
+            }
+            else if (length1 == length2)
+            {
+                Console.WriteLine("Both Lines are Equals!");
+            }
+            else
+            {
+                Console.WriteLine("Line 2 is Greater!");
+            }
 
         }
     }
