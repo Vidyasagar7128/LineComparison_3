@@ -5,8 +5,10 @@ using System.Text;
 namespace LineAndComparison
 {
 
-    interface Lines {
+    interface Lines
+    {
         void checkLines();
+    }
     class CustomLines : Lines
     {
         int x1 = 4;
